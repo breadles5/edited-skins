@@ -12,3 +12,5 @@ map: the empress 1.15 [_underjoy]
 map: mario paint [trycs]
 ![screenshot008](https://github.com/breadles5/edited-skins/assets/101068519/21f3ce2c-8481-49d9-9920-263e52ecda43)
 map: rude buster [aci]
+
+# [- Mania mix](https://drive.google.com/u/0/uc?id=1R6hrsTDvfnxtLO_AnZ1U_2cHx2Rnp7kb&export=download)
