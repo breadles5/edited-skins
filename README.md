@@ -14,3 +14,9 @@ map: mario paint [trycs]
 map: rude buster [aci]
 
 # [- Mania mix](https://drive.google.com/u/0/uc?id=1R6hrsTDvfnxtLO_AnZ1U_2cHx2Rnp7kb&export=download)
+![Screenshot 2023-08-01 112705](https://github.com/breadles5/edited-skins/assets/101068519/4cec1921-e5d4-4700-a2d4-fad703d2acfd)
+map: Yoru ni kakeru +DT (11Bit)
+![image](https://github.com/breadles5/edited-skins/assets/101068519/b44f7069-6622-4c98-a676-38c5780fd9c3)
+map: K.Y.A.F.A (lemonguy/gekido)
+![image](https://github.com/breadles5/edited-skins/assets/101068519/443fd654-37bb-4ab4-95f2-11dfbec9fcd2)
+map: peace breaker 1.4x (evening)
